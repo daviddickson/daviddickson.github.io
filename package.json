@@ -17,5 +17,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://daviddickson.github.io/my-app"
+  "homepage": "http://daviddickson.github.io/"
 }
